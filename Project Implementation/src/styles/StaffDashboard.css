@@ -1,0 +1,19 @@
+.card {
+    padding: 1rem;
+    height:70%;
+}
+
+.content {
+    margin-top: 1rem;
+    text-align: center;
+}
+
+.color-box {
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    margin-right: 0.5rem;
+    border-radius: 3px;
+}
+
+

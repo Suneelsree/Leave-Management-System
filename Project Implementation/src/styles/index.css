@@ -1,0 +1,30 @@
+/* src/styles/index.css */
+body {
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  .img-fluid {
+    border-radius: 20px;
+  }
+  
+  .slider .card {
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .slider .card:hover {
+    transform: scale(1.05);
+  }
+  
+  .footer a {
+    text-decoration: none;
+  }
+  
+  .footer a:hover {
+    text-decoration: underline;
+  }
+  /* styles/index.css */
+.hidden {
+  display: none;
+}
+
+  
